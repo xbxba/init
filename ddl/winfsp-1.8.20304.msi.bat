@@ -1,0 +1,1 @@
+@msiexec /promptrestart /i https://github.com/billziss-gh/winfsp/releases/download/v1.8/winfsp-1.8.20304.msi
