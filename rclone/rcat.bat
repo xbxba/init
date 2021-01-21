@@ -1,0 +1,2 @@
+@rclone rcat %*
+goto:EOF
